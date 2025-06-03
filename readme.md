@@ -16,7 +16,7 @@ The dataset (`protein.csv`) includes computed features (f1 to f9, uG, uA) and th
 
 ## 📷 Screenshots
 
-<img src="screenshot.png" width="600"/>
+<img src="Screenshot rmsd.png" width="600"/>
 
 ## 🚀 Run Locally
 
