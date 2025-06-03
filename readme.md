@@ -22,5 +22,5 @@ The dataset (`protein.csv`) includes computed features (f1 to f9, uG, uA) and th
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/protein-rmsd-predictor.git
+git clone https://github.com/Sahil-989/protein-rmsd-predictor.git
 cd protein-rmsd-predictor
